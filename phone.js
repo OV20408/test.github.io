@@ -1,3 +1,5 @@
+import { getAuth, RecaptchaVerifier } from "firebase/auth";
+
 // Configuración de Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyC3D9xQXrhMByLjSQZx8S4_6TZLdA69Mbc",
